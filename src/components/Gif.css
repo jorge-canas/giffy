@@ -1,0 +1,16 @@
+.gif {
+    border: 1px solid #eee;
+    border-radius:  6px;
+    color: #fff;
+    display: flex;
+    flex-direction: column;
+    margin: 16px;
+    padding: 32px;
+    text-decoration: none;
+    width: 100%;
+}
+
+.gif img {
+    object-fit: contain;
+    max-height: 300px;
+}
